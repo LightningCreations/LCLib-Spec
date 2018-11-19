@@ -1,2 +1,4 @@
 # LCLib-Spec
-Specification for LCLib
+Specifications and Documentation for LCLib
+
+
